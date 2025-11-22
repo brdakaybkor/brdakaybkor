@@ -1,109 +1,113 @@
-<h1 align="center">Hi, I'm Abubaker Alderdery 👋</h1>
-<h3 align="center">Senior DevOps & Software Engineer | Cloud | Java | Kubernetes | OCI</h3>
-
-<p align="center">
-  <strong>10+ years experience</strong> designing scalable systems, cloud architectures, DevOps automation, high-availability platforms, and enterprise Java backend solutions.
-</p>
+<h1 align="center">👋 Hi, I'm Abubaker Alderdery</h1>
+<h3 align="center">Senior Software & DevOps Engineer | Cloud | Kubernetes | Java | Observability</h3>
 
 ---
 
 ## 🚀 About Me
 
-- Senior Software & DevOps Engineer with strong experience in **Fintech, Telecom, and Enterprise Systems**
-- Specialist in **OCI Cloud, Kubernetes, CI/CD Automation, Java/Spring Boot, Observability & Monitoring**
-- Designed and delivered large-scale digital transformation projects:
-  - **Enterprise OCI Cloud Migration (HA + DR)**
-  - **Digital Loan Journey Platform (Tamam Finance)**
-  - **Monitoring & Observability Ecosystem (Prometheus, Grafana, Loki, ELK)**
-  - **IVR Campaign Management Platform (STC)**
-- Strong background in:
-  - High-availability architectures  
-  - Microservices performance tuning  
-  - Cloud-native scaling  
-  - Infrastructure automation  
-  - Large-scale backend engineering  
+I am a **Senior Software & DevOps Engineer** with strong experience across **Fintech**, **Telecommunications**, and **Enterprise Systems**.  
+I specialize in **Cloud Engineering**, **Kubernetes**, **CI/CD Automation**, **Java/Spring Boot**, and **Full Observability Platforms**.
+
+I have engineered and delivered several large-scale digital transformation initiatives, including:
+
+- **Enterprise OCI Cloud Migration (HA + DR Architecture)**
+- **Digital Loan Journey Platform (Tamam Finance)**
+- **Monitoring & Observability Ecosystem** (Prometheus, Grafana, Loki, ELK)
+- **IVR Campaign Management Platform (STC)**
+
+My work consistently focuses on:
+
+- High-availability & fault-tolerant architectures  
+- Microservices performance tuning  
+- Cloud-native scaling & automation  
+- Large-scale backend engineering  
+- Monitoring, alerting, and reliability engineering  
 
 ---
 
 ## 🧰 Tech Stack & Expertise
 
 ### 🔹 DevOps & Cloud
-- **Kubernetes, Docker, ArgoCD, Jenkins, GitHub Actions**
-- **OCI Cloud, AWS basics**
-- **Terraform, Infrastructure as Code**
-- **Linux, Nginx, HAProxy, Load Balancing**
+- Kubernetes, Docker  
+- ArgoCD, Jenkins, GitHub Actions  
+- OCI Cloud, AWS (Foundational)  
+- Terraform (IaC), Linux  
+- Nginx, HAProxy, Load Balancing  
 
 ### 🔹 Backend Engineering
-- **Java, Spring Boot, Microservices**
-- Event-driven architecture (RabbitMQ)
-- REST APIs, high-performance middleware
+- Java, Spring Boot  
+- Microservices Architecture  
+- Event-driven systems (RabbitMQ)  
+- High-performance REST APIs  
 
 ### 🔹 Observability & Monitoring
-- **Prometheus, Grafana, Loki**
-- **ELK Stack, Kibana**
-- **OCI Monitoring & Logging**
-- JVM monitoring, API latency tracking, DB performance analytics
+- Prometheus, Grafana, Loki  
+- ELK Stack, Kibana  
+- OCI Monitoring & Logging  
+- JVM metrics, API latency, DB performance analytics  
 
 ### 🔹 Databases & Caching
-- **MySQL, MongoDB, Redis**
-- Query tuning, indexing, caching, HA setups
+- MySQL, MongoDB, Redis  
+- Indexing, Query tuning, Caching strategies  
+- HA & replication setups  
 
 ### 🔹 Automation & Scripting
-- **Shell Scripting, Bash**
-- Java automation scripts
-- CI/CD quality gates & pipelines
+- Bash / Shell scripting  
+- Java automation utilities  
+- CI/CD quality gates & pipelines  
 
 ---
 
 ## 📁 Featured Projects (Demo Repositories)
 
-> These public repositories contain **demo code, architectures, and tools** representing my real capabilities without exposing proprietary code.
+These are **public demo repositories** representing my engineering capabilities (no proprietary or confidential code).  
+They will be updated progressively.
 
 ### 🔹 Cloud & DevOps
-- [devops-observability-toolkit](#)  
-- [k8s-monitoring-dashboards](#)  
-- [oci-infra-terraform](#)
+- `devops-observability-toolkit`
+- `k8s-monitoring-dashboards`
+- `oci-infra-terraform`
 
-### 🔹 Java / Spring Boot Services
-- [loan-eligibility-service](#)  
-- [scoring-engine-demo](#)  
-- [payment-scheduler-service](#)
+### 🔹 Java / Spring Boot
+- `loan-eligibility-service`
+- `scoring-engine-demo`
+- `payment-scheduler-service`
 
 ### 🔹 Automation & Utilities
-- [shell-automation-tools](#)  
-- [java-monitoring-utils](#)
+- `shell-automation-tools`
+- `java-monitoring-utils`
 
-> Note: Repositories will be populated progressively with demo projects, dashboards, and architecture samples.
+> ⚠️ *Repositories will be populated with sample architectures, dashboards, automation scripts, and microservices demos.*
 
 ---
 
 ## 🌍 Global Professional Engagement
 
-- Attendee: **NIDC 2025 – Belfast, UK**
-- Attendee: **EmberFest 2024 – Dublin, Ireland**
-- Attendee: **Uptime Conference 2023 – Amsterdam**
-- Attendee: **Spring I/O 2022 – Barcelona**
-- Invited: **WeAreDevelopers World Congress – Germany**
-- Invited: **KubeHuddle 2023 & 2024 – Toronto**
+**Conferences Attended**
+- NIDC 2025 – Belfast, UK  
+- EmberFest 2024 – Dublin, Ireland  
+- Uptime Conference 2023 – Amsterdam  
+- Spring I/O 2022 – Barcelona  
+
+**International Invitations**
+- WeAreDevelopers World Congress – Germany  
+- KubeHuddle 2023 & 2024 – Toronto  
 
 ---
 
 ## 🏆 Certifications
 
-- **OCI DevOps Professional (2025)**
-- **OCI Foundations Associate (2025)**
-- **Kubernetes KCNA**
-- **ITIL Foundation**
-- **SCJP & SCWCP (Oracle/Sun Java)**
+- **OCI DevOps Professional (2025)**  
+- **OCI Foundations Associate (2025)**  
+- **Kubernetes KCNA**  
+- **ITIL Foundation**  
+- **SCJP & SCWCP (Oracle/Sun Java)**  
 
 ---
 
 ## 📫 Contact Me
 
 - **LinkedIn:** https://www.linkedin.com/in/abubaker-osman-79642245/  
-- **GitHub:** https://github.com/brdakaybkor
+- **GitHub:** https://github.com/brdakaybkor  
 
 ---
-
-<p align="center">⭐ Feel free to explore my repositories and follow for upcoming projects.</p>
-<p align="center"><strong>Building scalable systems, one commit at a time.</strong></p>
