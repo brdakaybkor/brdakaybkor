@@ -100,7 +100,7 @@
 
 ## 📫 Contact Me
 
-- **LinkedIn:** https://linkedin.com/in/abubaker-ibrahim  
+- **LinkedIn:** https://www.linkedin.com/in/abubaker-osman-79642245/  
 - **GitHub:** https://github.com/brdakaybkor
 
 ---
